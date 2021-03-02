@@ -9,7 +9,7 @@ Pré requisitos:
 
 # Aplicação
 
-Para executar a aplicação basta abrir a solução com o Visual Studio, definir o projeto ChatServer como projeto de inicilização e executar a aplicação.
+Para executar a aplicação basta abrir a solução com o Visual Studio, definir o projeto ChatServer como projeto de inicialização e executar a aplicação.
 
 
 
