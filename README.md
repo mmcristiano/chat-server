@@ -1,7 +1,7 @@
 
 # Descrição
 
-Servidor de WebSockets para aplicação de bate-papo TakeChat
+Servidor de WebSockets para aplicação de bate-papo TakeChat.
 
 Pré requisitos:
 - Visual Studio
@@ -16,5 +16,5 @@ Para executar a aplicação basta abrir a solução com o Visual Studio, definir
 
 # Testes
 
-Para executar os testes basta abrir o gerenciador de testes no visual Studio e executar os testes.
+Para executar os testes basta abrir o gerenciador de testes no Visual Studio e executar os testes.
 
