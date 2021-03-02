@@ -3,6 +3,10 @@
 
 Servidor de WebSockets para aplicação de bate-papo TakeChat.
 
+Apicação backend construída em Asp Net Core. 
+
+Provê um servidor para bate-papo, com comunicação via web sockets.
+
 Pré requisitos:
 - Visual Studio
 - ASpNet Core
